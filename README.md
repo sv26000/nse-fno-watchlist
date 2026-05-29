@@ -1,6 +1,6 @@
 # NSE Symbols Extractor
 
-[![CI](https://github.com/sv26000/nse-symbols-eaxtract/actions/workflows/ci.yml/badge.svg)](https://github.com/sv26000/nse-symbols-eaxtract/actions/workflows/ci.yml)
+[![CI](https://github.com/sv26000/nse-fno-watchlist/actions/workflows/ci.yml/badge.svg)](https://github.com/sv26000/nse-fno-watchlist/actions/workflows/ci.yml)
 
 Fetch the list of NSE (National Stock Exchange of India) Futures &amp; Options
 **underlying** symbols and export them as a ready-to-import TradingView
