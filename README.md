@@ -58,12 +58,30 @@ python extract_symbols.py --output my_watchlist.txt
 | `--suffix TEXT` | `1!` | Text appended to every symbol. Use `""` for plain symbols. |
 | `--include-indices` | off | Also include index symbols from `IndexList`. |
 | `--save-json` | off | When fetching live, cache the `UnderlyingList` to `--input` for offline reuse. |
+| `--require-live` | off | Fail (exit 1) instead of falling back to the local file if the live fetch fails. |
 
 ## Importing into TradingView
 
 1. Run the script to generate an `output_*.txt` file.
 2. In TradingView, open the **Watchlist** panel.
 3. Use **Import list** and select the generated file.
+
+## Auto-updated watchlist (GitHub Actions)
+
+The [`Update watchlist`](.github/workflows/update-watchlist.yml) workflow can
+regenerate the list on a schedule (weekdays after market close) or on demand
+from the **Actions** tab. When it succeeds it commits a refreshed
+[`watchlist.txt`](watchlist.txt) and `data.json` straight back to the repo, so
+you can grab the latest list from the repository without running anything
+locally.
+
+> **Heads-up:** NSE protects its API with Akamai Bot Manager, which frequently
+> blocks GitHub's shared (US-based) runner IPs. The workflow uses
+> `--require-live`, so a run that can't reach NSE **fails loudly** rather than
+> committing stale data. If the scheduled runs are blocked in your case, run
+> the script locally (it works from a normal browser-like environment) or point
+> the workflow at a [self-hosted runner](https://docs.github.com/actions/hosting-your-own-runners)
+> on an Indian IP.
 
 ## How it works
 

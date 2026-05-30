@@ -185,6 +185,12 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         help="When fetching from the API, also save the raw UnderlyingList to "
         "the --input path so it can be reused offline.",
     )
+    parser.add_argument(
+        "--require-live",
+        action="store_true",
+        help="Fail instead of falling back to the local file if the live API "
+        "fetch does not succeed. Useful in CI to surface NSE blocking.",
+    )
     return parser.parse_args(argv)
 
 
@@ -198,6 +204,9 @@ def main(argv: list[str] | None = None) -> int:
             print("Fetched live data from the NSE API.")
         except RuntimeError as exc:
             print(f"Warning: {exc}")
+            if args.require_live:
+                print("Error: --require-live set and the live fetch failed.")
+                return 1
             if args.input.exists():
                 print(f"Falling back to local file: {args.input}")
                 payload = load_from_file(args.input)
