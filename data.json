@@ -305,748 +305,738 @@
         "serialNumber": 61
     },
     {
-        "symbol": "EXIDEIND",
-        "underlying": "Exide Industries Limited",
-        "serialNumber": 62
-    },
-    {
         "symbol": "FORCEMOT",
         "underlying": "FORCE MOTORS LTD",
-        "serialNumber": 63
+        "serialNumber": 62
     },
     {
         "symbol": "NYKAA",
         "underlying": "FSN E-Commerce Ventures Limited",
-        "serialNumber": 64
+        "serialNumber": 63
     },
     {
         "symbol": "FORTIS",
         "underlying": "Fortis Healthcare Limited",
-        "serialNumber": 65
+        "serialNumber": 64
     },
     {
         "symbol": "GAIL",
         "underlying": "GAIL (India) Limited",
-        "serialNumber": 66
+        "serialNumber": 65
     },
     {
         "symbol": "GVT&D",
         "underlying": "GE Vernova T&D India Limited",
-        "serialNumber": 67
+        "serialNumber": 66
     },
     {
         "symbol": "GMRAIRPORT",
         "underlying": "GMR AIRPORTS LIMITED",
-        "serialNumber": 68
+        "serialNumber": 67
     },
     {
         "symbol": "GLENMARK",
         "underlying": "Glenmark Pharmaceuticals Limited",
-        "serialNumber": 69
+        "serialNumber": 68
     },
     {
         "symbol": "GODFRYPHLP",
         "underlying": "Godfrey Phillips India Limited",
-        "serialNumber": 70
+        "serialNumber": 69
     },
     {
         "symbol": "GODREJCP",
         "underlying": "Godrej Consumer Products Limited",
-        "serialNumber": 71
+        "serialNumber": 70
     },
     {
         "symbol": "GODREJPROP",
         "underlying": "Godrej Properties Limited",
-        "serialNumber": 72
+        "serialNumber": 71
     },
     {
         "symbol": "GRASIM",
         "underlying": "Grasim Industries Limited",
-        "serialNumber": 73
+        "serialNumber": 72
     },
     {
         "symbol": "HCLTECH",
         "underlying": "HCL Technologies Limited",
-        "serialNumber": 74
+        "serialNumber": 73
     },
     {
         "symbol": "HDFCAMC",
         "underlying": "HDFC Asset Management Company Limited",
-        "serialNumber": 75
+        "serialNumber": 74
     },
     {
         "symbol": "HDFCBANK",
         "underlying": "HDFC Bank Limited",
-        "serialNumber": 76
+        "serialNumber": 75
     },
     {
         "symbol": "HDFCLIFE",
         "underlying": "HDFC Life Insurance Company Limited",
-        "serialNumber": 77
+        "serialNumber": 76
     },
     {
         "symbol": "HAVELLS",
         "underlying": "Havells India Limited",
-        "serialNumber": 78
+        "serialNumber": 77
     },
     {
         "symbol": "HEROMOTOCO",
         "underlying": "Hero MotoCorp Limited",
-        "serialNumber": 79
+        "serialNumber": 78
     },
     {
         "symbol": "HINDALCO",
         "underlying": "Hindalco Industries Limited",
-        "serialNumber": 80
+        "serialNumber": 79
     },
     {
         "symbol": "HAL",
         "underlying": "Hindustan Aeronautics Limited",
-        "serialNumber": 81
+        "serialNumber": 80
     },
     {
         "symbol": "HINDPETRO",
         "underlying": "Hindustan Petroleum Corporation Limited",
-        "serialNumber": 82
+        "serialNumber": 81
     },
     {
         "symbol": "HINDUNILVR",
         "underlying": "Hindustan Unilever Limited",
-        "serialNumber": 83
+        "serialNumber": 82
     },
     {
         "symbol": "HINDZINC",
         "underlying": "Hindustan Zinc Limited",
-        "serialNumber": 84
+        "serialNumber": 83
     },
     {
         "symbol": "POWERINDIA",
         "underlying": "Hitachi Energy India Limited",
-        "serialNumber": 85
+        "serialNumber": 84
     },
     {
         "symbol": "HYUNDAI",
         "underlying": "Hyundai Motor India Limited",
-        "serialNumber": 86
+        "serialNumber": 85
     },
     {
         "symbol": "ICICIBANK",
         "underlying": "ICICI Bank Limited",
-        "serialNumber": 87
+        "serialNumber": 86
     },
     {
         "symbol": "ICICIGI",
         "underlying": "ICICI Lombard General Insurance Company Limited",
-        "serialNumber": 88
+        "serialNumber": 87
     },
     {
         "symbol": "ICICIPRULI",
         "underlying": "ICICI Prudential Life Insurance Company Limited",
-        "serialNumber": 89
+        "serialNumber": 88
     },
     {
         "symbol": "IDFCFIRSTB",
         "underlying": "IDFC First Bank Limited",
-        "serialNumber": 90
+        "serialNumber": 89
     },
     {
         "symbol": "ITC",
         "underlying": "ITC Limited",
-        "serialNumber": 91
+        "serialNumber": 90
     },
     {
         "symbol": "INDIANB",
         "underlying": "Indian Bank",
-        "serialNumber": 92
+        "serialNumber": 91
     },
     {
         "symbol": "IEX",
         "underlying": "Indian Energy Exchange Limited",
-        "serialNumber": 93
+        "serialNumber": 92
     },
     {
         "symbol": "IOC",
         "underlying": "Indian Oil Corporation Limited",
-        "serialNumber": 94
+        "serialNumber": 93
     },
     {
         "symbol": "IRFC",
         "underlying": "Indian Railway Finance Corporation Limited",
-        "serialNumber": 95
+        "serialNumber": 94
     },
     {
         "symbol": "IREDA",
         "underlying": "Indian Renewable Energy Development Agency Limited",
-        "serialNumber": 96
+        "serialNumber": 95
     },
     {
         "symbol": "INDUSTOWER",
         "underlying": "Indus Towers Limited",
-        "serialNumber": 97
+        "serialNumber": 96
     },
     {
         "symbol": "INDUSINDBK",
         "underlying": "IndusInd Bank Limited",
-        "serialNumber": 98
+        "serialNumber": 97
     },
     {
         "symbol": "NAUKRI",
         "underlying": "Info Edge (India) Limited",
-        "serialNumber": 99
+        "serialNumber": 98
     },
     {
         "symbol": "INFY",
         "underlying": "Infosys Limited",
-        "serialNumber": 100
+        "serialNumber": 99
     },
     {
         "symbol": "INOXWIND",
         "underlying": "Inox Wind Limited",
-        "serialNumber": 101
+        "serialNumber": 100
     },
     {
         "symbol": "INDIGO",
         "underlying": "InterGlobe Aviation Limited",
-        "serialNumber": 102
+        "serialNumber": 101
     },
     {
         "symbol": "JINDALSTEL",
         "underlying": "JINDAL STEEL LIMITED",
-        "serialNumber": 103
+        "serialNumber": 102
     },
     {
         "symbol": "JSWENERGY",
         "underlying": "JSW Energy Limited",
-        "serialNumber": 104
+        "serialNumber": 103
     },
     {
         "symbol": "JSWSTEEL",
         "underlying": "JSW Steel Limited",
-        "serialNumber": 105
+        "serialNumber": 104
     },
     {
         "symbol": "JIOFIN",
         "underlying": "Jio Financial Services Limited",
-        "serialNumber": 106
+        "serialNumber": 105
     },
     {
         "symbol": "JUBLFOOD",
         "underlying": "Jubilant Foodworks Limited",
-        "serialNumber": 107
+        "serialNumber": 106
     },
     {
         "symbol": "KEI",
         "underlying": "KEI Industries Limited",
-        "serialNumber": 108
+        "serialNumber": 107
     },
     {
         "symbol": "KPITTECH",
         "underlying": "KPIT Technologies Limited",
-        "serialNumber": 109
+        "serialNumber": 108
     },
     {
         "symbol": "KALYANKJIL",
         "underlying": "Kalyan Jewellers India Limited",
-        "serialNumber": 110
+        "serialNumber": 109
     },
     {
         "symbol": "KAYNES",
         "underlying": "Kaynes Technology India Limited",
-        "serialNumber": 111
+        "serialNumber": 110
     },
     {
         "symbol": "KFINTECH",
         "underlying": "Kfin Technologies Limited",
-        "serialNumber": 112
+        "serialNumber": 111
     },
     {
         "symbol": "KOTAKBANK",
         "underlying": "Kotak Mahindra Bank Limited",
-        "serialNumber": 113
+        "serialNumber": 112
     },
     {
         "symbol": "LTF",
         "underlying": "L&T Finance Limited",
-        "serialNumber": 114
+        "serialNumber": 113
     },
     {
         "symbol": "LICHSGFIN",
         "underlying": "LIC Housing Finance Limited",
-        "serialNumber": 115
+        "serialNumber": 114
     },
     {
         "symbol": "LTM",
         "underlying": "LTM Limited",
-        "serialNumber": 116
+        "serialNumber": 115
     },
     {
         "symbol": "LT",
         "underlying": "Larsen & Toubro Limited",
-        "serialNumber": 117
+        "serialNumber": 116
     },
     {
         "symbol": "LAURUSLABS",
         "underlying": "Laurus Labs Limited",
-        "serialNumber": 118
+        "serialNumber": 117
     },
     {
         "symbol": "LICI",
         "underlying": "Life Insurance Corporation Of India",
-        "serialNumber": 119
+        "serialNumber": 118
     },
     {
         "symbol": "LODHA",
         "underlying": "Lodha Developers Limited",
-        "serialNumber": 120
+        "serialNumber": 119
     },
     {
         "symbol": "LUPIN",
         "underlying": "Lupin Limited",
-        "serialNumber": 121
+        "serialNumber": 120
     },
     {
         "symbol": "M&M",
         "underlying": "Mahindra & Mahindra Limited",
-        "serialNumber": 122
+        "serialNumber": 121
     },
     {
         "symbol": "MANAPPURAM",
         "underlying": "Manappuram Finance Limited",
-        "serialNumber": 123
+        "serialNumber": 122
     },
     {
         "symbol": "MANKIND",
         "underlying": "Mankind Pharma Limited",
-        "serialNumber": 124
+        "serialNumber": 123
     },
     {
         "symbol": "MARICO",
         "underlying": "Marico Limited",
-        "serialNumber": 125
+        "serialNumber": 124
     },
     {
         "symbol": "MARUTI",
         "underlying": "Maruti Suzuki India Limited",
-        "serialNumber": 126
+        "serialNumber": 125
     },
     {
         "symbol": "MFSL",
         "underlying": "Max Financial Services Limited",
-        "serialNumber": 127
+        "serialNumber": 126
     },
     {
         "symbol": "MAXHEALTH",
         "underlying": "Max Healthcare Institute Limited",
-        "serialNumber": 128
+        "serialNumber": 127
     },
     {
         "symbol": "MAZDOCK",
         "underlying": "Mazagon Dock Shipbuilders Limited",
-        "serialNumber": 129
+        "serialNumber": 128
     },
     {
         "symbol": "MOTILALOFS",
         "underlying": "Motilal Oswal Financial Services Limited",
-        "serialNumber": 130
+        "serialNumber": 129
     },
     {
         "symbol": "MPHASIS",
         "underlying": "MphasiS Limited",
-        "serialNumber": 131
+        "serialNumber": 130
     },
     {
         "symbol": "MCX",
         "underlying": "Multi Commodity Exchange of India Limited",
-        "serialNumber": 132
+        "serialNumber": 131
     },
     {
         "symbol": "MUTHOOTFIN",
         "underlying": "Muthoot Finance Limited",
-        "serialNumber": 133
+        "serialNumber": 132
     },
     {
         "symbol": "NBCC",
         "underlying": "NBCC (India) Limited",
-        "serialNumber": 134
+        "serialNumber": 133
     },
     {
         "symbol": "NHPC",
         "underlying": "NHPC Limited",
-        "serialNumber": 135
+        "serialNumber": 134
     },
     {
         "symbol": "NMDC",
         "underlying": "NMDC Limited",
-        "serialNumber": 136
+        "serialNumber": 135
     },
     {
         "symbol": "NTPC",
         "underlying": "NTPC Limited",
-        "serialNumber": 137
+        "serialNumber": 136
     },
     {
         "symbol": "NATIONALUM",
         "underlying": "National Aluminium Company Limited",
-        "serialNumber": 138
+        "serialNumber": 137
     },
     {
         "symbol": "NESTLEIND",
         "underlying": "Nestle India Limited",
-        "serialNumber": 139
+        "serialNumber": 138
     },
     {
         "symbol": "NAM-INDIA",
         "underlying": "Nippon Life India Asset Management Limited",
-        "serialNumber": 140
-    },
-    {
-        "symbol": "NUVAMA",
-        "underlying": "Nuvama Wealth Management Limited",
-        "serialNumber": 141
+        "serialNumber": 139
     },
     {
         "symbol": "OBEROIRLTY",
         "underlying": "Oberoi Realty Limited",
-        "serialNumber": 142
+        "serialNumber": 140
     },
     {
         "symbol": "ONGC",
         "underlying": "Oil & Natural Gas Corporation Limited",
-        "serialNumber": 143
+        "serialNumber": 141
     },
     {
         "symbol": "OIL",
         "underlying": "Oil India Limited",
-        "serialNumber": 144
+        "serialNumber": 142
     },
     {
         "symbol": "PAYTM",
         "underlying": "One 97 Communications Limited",
-        "serialNumber": 145
+        "serialNumber": 143
     },
     {
         "symbol": "OFSS",
         "underlying": "Oracle Financial Services Software Limited",
-        "serialNumber": 146
+        "serialNumber": 144
     },
     {
         "symbol": "POLICYBZR",
         "underlying": "PB Fintech Limited",
-        "serialNumber": 147
+        "serialNumber": 145
     },
     {
         "symbol": "PGEL",
         "underlying": "PG Electroplast Limited",
-        "serialNumber": 148
+        "serialNumber": 146
     },
     {
         "symbol": "PIIND",
         "underlying": "PI Industries Limited",
-        "serialNumber": 149
+        "serialNumber": 147
     },
     {
         "symbol": "PNBHOUSING",
         "underlying": "PNB Housing Finance Limited",
-        "serialNumber": 150
+        "serialNumber": 148
     },
     {
         "symbol": "PAGEIND",
         "underlying": "Page Industries Limited",
-        "serialNumber": 151
+        "serialNumber": 149
     },
     {
         "symbol": "PATANJALI",
         "underlying": "Patanjali Foods Limited",
-        "serialNumber": 152
+        "serialNumber": 150
     },
     {
         "symbol": "PERSISTENT",
         "underlying": "Persistent Systems Limited",
-        "serialNumber": 153
+        "serialNumber": 151
     },
     {
         "symbol": "PETRONET",
         "underlying": "Petronet LNG Limited",
-        "serialNumber": 154
+        "serialNumber": 152
     },
     {
         "symbol": "PIDILITIND",
         "underlying": "Pidilite Industries Limited",
-        "serialNumber": 155
+        "serialNumber": 153
     },
     {
         "symbol": "POLYCAB",
         "underlying": "Polycab India Limited",
-        "serialNumber": 156
+        "serialNumber": 154
     },
     {
         "symbol": "PFC",
         "underlying": "Power Finance Corporation Limited",
-        "serialNumber": 157
+        "serialNumber": 155
     },
     {
         "symbol": "POWERGRID",
         "underlying": "Power Grid Corporation of India Limited",
-        "serialNumber": 158
+        "serialNumber": 156
     },
     {
         "symbol": "PREMIERENE",
         "underlying": "Premier Energies Limited",
-        "serialNumber": 159
+        "serialNumber": 157
     },
     {
         "symbol": "PRESTIGE",
         "underlying": "Prestige Estates Projects Limited",
-        "serialNumber": 160
+        "serialNumber": 158
     },
     {
         "symbol": "PNB",
         "underlying": "Punjab National Bank",
-        "serialNumber": 161
+        "serialNumber": 159
     },
     {
         "symbol": "RBLBANK",
         "underlying": "RBL Bank Limited",
-        "serialNumber": 162
+        "serialNumber": 160
     },
     {
         "symbol": "RECLTD",
         "underlying": "REC Limited",
-        "serialNumber": 163
+        "serialNumber": 161
     },
     {
         "symbol": "RADICO",
         "underlying": "Radico Khaitan Limited",
-        "serialNumber": 164
+        "serialNumber": 162
     },
     {
         "symbol": "RVNL",
         "underlying": "Rail Vikas Nigam Limited",
-        "serialNumber": 165
+        "serialNumber": 163
     },
     {
         "symbol": "RELIANCE",
         "underlying": "Reliance Industries Limited",
-        "serialNumber": 166
+        "serialNumber": 164
     },
     {
         "symbol": "SBICARD",
         "underlying": "SBI Cards and Payment Services Limited",
-        "serialNumber": 167
+        "serialNumber": 165
     },
     {
         "symbol": "SBILIFE",
         "underlying": "SBI Life Insurance Company Limited",
-        "serialNumber": 168
+        "serialNumber": 166
     },
     {
         "symbol": "SHREECEM",
         "underlying": "SHREE CEMENT LIMITED",
-        "serialNumber": 169
+        "serialNumber": 167
     },
     {
         "symbol": "SRF",
         "underlying": "SRF Limited",
-        "serialNumber": 170
+        "serialNumber": 168
     },
     {
         "symbol": "MOTHERSON",
         "underlying": "Samvardhana Motherson International Limited",
-        "serialNumber": 171
+        "serialNumber": 169
     },
     {
         "symbol": "SHRIRAMFIN",
         "underlying": "Shriram Finance Limited",
-        "serialNumber": 172
+        "serialNumber": 170
     },
     {
         "symbol": "SIEMENS",
         "underlying": "Siemens Limited",
-        "serialNumber": 173
+        "serialNumber": 171
     },
     {
         "symbol": "SOLARINDS",
         "underlying": "Solar Industries India Limited",
-        "serialNumber": 174
+        "serialNumber": 172
     },
     {
         "symbol": "SONACOMS",
         "underlying": "Sona BLW Precision Forgings Limited",
-        "serialNumber": 175
+        "serialNumber": 173
     },
     {
         "symbol": "SBIN",
         "underlying": "State Bank of India",
-        "serialNumber": 176
+        "serialNumber": 174
     },
     {
         "symbol": "SAIL",
         "underlying": "Steel Authority of India Limited",
-        "serialNumber": 177
+        "serialNumber": 175
     },
     {
         "symbol": "SUNPHARMA",
         "underlying": "Sun Pharmaceutical Industries Limited",
-        "serialNumber": 178
+        "serialNumber": 176
     },
     {
         "symbol": "SUPREMEIND",
         "underlying": "Supreme Industries Limited",
-        "serialNumber": 179
+        "serialNumber": 177
     },
     {
         "symbol": "SUZLON",
         "underlying": "Suzlon Energy Limited",
-        "serialNumber": 180
+        "serialNumber": 178
     },
     {
         "symbol": "SWIGGY",
         "underlying": "Swiggy Limited",
-        "serialNumber": 181
+        "serialNumber": 179
     },
     {
         "symbol": "TATACONSUM",
         "underlying": "TATA CONSUMER PRODUCTS LIMITED",
-        "serialNumber": 182
+        "serialNumber": 180
     },
     {
         "symbol": "TVSMOTOR",
         "underlying": "TVS Motor Company Limited",
-        "serialNumber": 183
+        "serialNumber": 181
     },
     {
         "symbol": "TCS",
         "underlying": "Tata Consultancy Services Limited",
-        "serialNumber": 184
+        "serialNumber": 182
     },
     {
         "symbol": "TATAELXSI",
         "underlying": "Tata Elxsi Limited",
-        "serialNumber": 185
+        "serialNumber": 183
     },
     {
         "symbol": "TMPV",
         "underlying": "Tata Motors Passenger Vehicles Limited",
-        "serialNumber": 186
+        "serialNumber": 184
     },
     {
         "symbol": "TATAPOWER",
         "underlying": "Tata Power Company Limited",
-        "serialNumber": 187
+        "serialNumber": 185
     },
     {
         "symbol": "TATASTEEL",
         "underlying": "Tata Steel Limited",
-        "serialNumber": 188
+        "serialNumber": 186
     },
     {
         "symbol": "TECHM",
         "underlying": "Tech Mahindra Limited",
-        "serialNumber": 189
+        "serialNumber": 187
     },
     {
         "symbol": "FEDERALBNK",
         "underlying": "The Federal Bank  Limited",
-        "serialNumber": 190
+        "serialNumber": 188
     },
     {
         "symbol": "INDHOTEL",
         "underlying": "The Indian Hotels Company Limited",
-        "serialNumber": 191
+        "serialNumber": 189
     },
     {
         "symbol": "PHOENIXLTD",
         "underlying": "The Phoenix Mills Limited",
-        "serialNumber": 192
+        "serialNumber": 190
     },
     {
         "symbol": "TITAN",
         "underlying": "Titan Company Limited",
-        "serialNumber": 193
+        "serialNumber": 191
     },
     {
         "symbol": "TORNTPHARM",
         "underlying": "Torrent Pharmaceuticals Limited",
-        "serialNumber": 194
+        "serialNumber": 192
     },
     {
         "symbol": "TRENT",
         "underlying": "Trent Limited",
-        "serialNumber": 195
+        "serialNumber": 193
     },
     {
         "symbol": "TIINDIA",
         "underlying": "Tube Investments of India Limited",
-        "serialNumber": 196
+        "serialNumber": 194
     },
     {
         "symbol": "UNOMINDA",
         "underlying": "UNO Minda Limited",
-        "serialNumber": 197
+        "serialNumber": 195
     },
     {
         "symbol": "UPL",
         "underlying": "UPL Limited",
-        "serialNumber": 198
+        "serialNumber": 196
     },
     {
         "symbol": "ULTRACEMCO",
         "underlying": "UltraTech Cement Limited",
-        "serialNumber": 199
+        "serialNumber": 197
     },
     {
         "symbol": "UNIONBANK",
         "underlying": "Union Bank of India",
-        "serialNumber": 200
+        "serialNumber": 198
     },
     {
         "symbol": "UNITDSPR",
         "underlying": "United Spirits Limited",
-        "serialNumber": 201
+        "serialNumber": 199
     },
     {
         "symbol": "VBL",
         "underlying": "Varun Beverages Limited",
-        "serialNumber": 202
+        "serialNumber": 200
     },
     {
         "symbol": "VEDL",
         "underlying": "Vedanta Limited",
-        "serialNumber": 203
+        "serialNumber": 201
     },
     {
         "symbol": "VMM",
         "underlying": "Vishal Mega Mart Limited",
-        "serialNumber": 204
+        "serialNumber": 202
     },
     {
         "symbol": "IDEA",
         "underlying": "Vodafone Idea Limited",
-        "serialNumber": 205
+        "serialNumber": 203
     },
     {
         "symbol": "VOLTAS",
         "underlying": "Voltas Limited",
-        "serialNumber": 206
+        "serialNumber": 204
     },
     {
         "symbol": "WAAREEENER",
         "underlying": "Waaree Energies Limited",
-        "serialNumber": 207
+        "serialNumber": 205
     },
     {
         "symbol": "WIPRO",
         "underlying": "Wipro Limited",
-        "serialNumber": 208
+        "serialNumber": 206
     },
     {
         "symbol": "YESBANK",
         "underlying": "Yes Bank Limited",
-        "serialNumber": 209
+        "serialNumber": 207
     },
     {
         "symbol": "ZYDUSLIFE",
         "underlying": "Zydus Lifesciences Limited",
-        "serialNumber": 210
+        "serialNumber": 208
     }
 ]
